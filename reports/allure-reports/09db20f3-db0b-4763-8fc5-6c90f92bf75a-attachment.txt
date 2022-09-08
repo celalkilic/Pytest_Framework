@@ -1,0 +1,7 @@
+Assertion error occured
+assert 'OrangeHRM' == 'Orange'
+  - Orange
+  + OrangeHRM
+  ?       +++
+I am inside the finally block
+test completed

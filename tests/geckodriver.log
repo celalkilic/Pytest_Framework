@@ -1,0 +1,150 @@
+1662457528214	geckodriver	INFO	Listening on 127.0.0.1:57776
+1662457531293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileCGLvA5"
+1662457531698	Marionette	INFO	Marionette enabled
+1662457531703	Marionette	INFO	Listening on port 57789
+WebDriver BiDi listening on ws://localhost:57777
+Read port: 57789
+1662457531807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileCGLvA5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57777/devtools/browser/12408087-2156-4682-9fe0-139db993676f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1662457538933	Marionette	INFO	Stopped listening on port 57789
+1662459929904	geckodriver	INFO	Listening on 127.0.0.1:59069
+1662459932967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59070" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileOQHNiS"
+1662459933251	Marionette	INFO	Marionette enabled
+1662459933255	Marionette	INFO	Listening on port 59081
+WebDriver BiDi listening on ws://localhost:59070
+Read port: 59081
+1662459933358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileOQHNiS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59070/devtools/browser/c05a6266-ff40-41e4-93c9-be0834be5792
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1662459939915	Marionette	INFO	Stopped listening on port 59081
+1662460316205	geckodriver	INFO	Listening on 127.0.0.1:59440
+1662460319278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofile678K4B"
+1662460319586	Marionette	INFO	Marionette enabled
+1662460319591	Marionette	INFO	Listening on port 59450
+WebDriver BiDi listening on ws://localhost:59441
+Read port: 59450
+1662460319676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofile678K4B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59441/devtools/browser/2130ba27-f057-4467-b64f-a0e6ad3a74eb
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1662460328641	Marionette	INFO	Stopped listening on port 59450
+1662461161837	geckodriver	INFO	Listening on 127.0.0.1:59620
+1662461164887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileZ5Tc6c"
+1662461165192	Marionette	INFO	Marionette enabled
+1662461165196	Marionette	INFO	Listening on port 59630
+WebDriver BiDi listening on ws://localhost:59621
+Read port: 59630
+1662461165283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileZ5Tc6c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59621/devtools/browser/f688ea0e-47d3-4285-b4d4-5029de420328
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1662461174904	Marionette	INFO	Stopped listening on port 59630
+1662462045899	geckodriver	INFO	Listening on 127.0.0.1:60193
+1662462048985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileoZlJNr"
+1662462049263	Marionette	INFO	Marionette enabled
+1662462049267	Marionette	INFO	Listening on port 60203
+WebDriver BiDi listening on ws://localhost:60194
+Read port: 60203
+1662462049430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileoZlJNr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60194/devtools/browser/ced4f1c4-8a04-4926-b492-e7677628d81d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1662462058458	Marionette	INFO	Stopped listening on port 60203
+1662462689058	geckodriver	INFO	Listening on 127.0.0.1:60295
+1662462692137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60296" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofilepncvbC"
+1662462692425	Marionette	INFO	Marionette enabled
+1662462692430	Marionette	INFO	Listening on port 60305
+WebDriver BiDi listening on ws://localhost:60296
+Read port: 60305
+1662462692519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofilepncvbC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60296/devtools/browser/569bf89f-385a-42d2-9436-07c9872e5ba2
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1662462699711	Marionette	INFO	Stopped listening on port 60305
+1662578153248	geckodriver	INFO	Listening on 127.0.0.1:50470
+1662578156315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileY7KH4G"
+1662578156906	Marionette	INFO	Marionette enabled
+1662578156914	Marionette	INFO	Listening on port 50487
+WebDriver BiDi listening on ws://localhost:50471
+Read port: 50487
+1662578157058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileY7KH4G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50471/devtools/browser/9a0c967a-381b-4428-a2f6-7dd3864960cc
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1662578222186	Marionette	INFO	Stopped listening on port 50487
+1662579510699	geckodriver	INFO	Listening on 127.0.0.1:50723
+1662579513773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofilex8XHXz"
+1662579514108	Marionette	INFO	Marionette enabled
+1662579514113	Marionette	INFO	Listening on port 50733
+WebDriver BiDi listening on ws://localhost:50724
+Read port: 50733
+1662579514322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofilex8XHXz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50724/devtools/browser/43b52702-8ee8-43ab-823a-0be06a4c9767
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1662579528134	Marionette	INFO	Stopped listening on port 50733
